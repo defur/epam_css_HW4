@@ -1,5 +1,7 @@
 # epam_css_HW4 CSS Animations
 
+https://defur.github.io/epam_css_HW4/
+
 ## Task Requirements
 
 In this task you will be proposed to apply transform and transition properties to different html elements on the page. Read carefully which properties should be applied to each element, don’t add unnecessary ones
