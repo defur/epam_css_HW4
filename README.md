@@ -1,19 +1,5 @@
 # epam_css_HW4 CSS Animations
 
-## Before we start
-
-1. This practical task is verified automatically with tests. 
-2. Please, put all your `HTML` code in the `src/index.html` file. If you use any other file, we would not be able to verify it.
-3. Please, don't change the page structure, it may affect tests.
-
-## Development
-
-While developing, you can open `src/index.html` in your browser to check it. However, we have prepared a more convenient way to run it locally, you can find the details here: [Local Development](./docs/LocalDevelopment.md).
-
-## Check your solution before submitting it (OPTIONAL)
-
-To be sure you submit a correct solution, you can verify it locally. This requires some local setup. Here are the instructions: [Verify your solution locally](./docs/VerifySolutionLocally.md).
-
 ## Task Requirements
 
 In this task you will be proposed to apply transform and transition properties to different html elements on the page. Read carefully which properties should be applied to each element, don’t add unnecessary ones
